@@ -25,3 +25,8 @@ It simulates rolling a six-sided dice and keeps track of your roll history.
 
 
 ## 📂 File Structure
+Dice-Roll-Simulator/
+│
+├── index.html # Main HTML file
+├── style.css # Styling for the project
+└── index.js # JavaScript logic
